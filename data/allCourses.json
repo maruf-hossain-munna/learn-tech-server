@@ -4,9 +4,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "HTML",
-        "img" : "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "img" : "https://github.com/maruf21hossain/image/blob/main/html.png?raw=true",
         "title" : "Our basic to advance HTML course",
-        "description" : "This is our valuable course. As a beginner programmer you should follow this course. Because this course have basic html and advance html5 included."
+        "price" : 350 ,
+        "description" : "This is our valuable course. As a beginner programmer you should follow this course. Because this course have basic html and advance html5 included. HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages. It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development. "
 
     },
     {
@@ -14,9 +15,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "CSS",
-        "img" : "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "img" : "https://github.com/maruf21hossain/image/blob/main/css.png?raw=true",
         "title" : "Our basic to advance CSS course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic css and advance css3 included."
+        "price" : 380 ,
+        "description" : " CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic css and advance css3 included."
 
     },
     {
@@ -24,9 +26,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "Javascript",
-        "img" : "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "img" : "https://github.com/maruf21hossain/image/blob/main/js.png?raw=true",
         "title" : "Our basic to advance Javascript course",
-        "description" : "This is our valuable course. As a beginner programmer you should follow this course. Because this course have basic Javasript and advance Javasript included."
+        "price" : 700 ,
+        "description" : " In JavaScript, the this keyword refers to an object. Which object depends on how this is being invoked (used or called). The this keyword refers to different objects depending on how it is used: In an object method, this refers to the object. Alone, this refers to the global object. This is our valuable course. As a beginner programmer you should follow this course. Because this course have basic Javasript and advance Javasript included."
 
     },
     {
@@ -34,9 +37,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "React",
-        "img" : "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+        "price" : 800 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/react.png?raw=true",
         "title" : "Our basic to advance React course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic React and advance React included."
+        "description" : "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. We'll get to the funny XML-like tags soon. We use components to tell React what we want to see on the screen. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic React and advance React included."
 
     },
     {
@@ -44,8 +48,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "Node js",
+        "price" : 390 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/node%20js.png?raw=true",
         "title" : "Our basic to advance Node js course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Node js and advance Node js included."
+        "description" : "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Node js and advance Node js included."
 
     },
     {
@@ -53,9 +59,10 @@
         "categoryName" : "Programming Course",
         "category_id": "01",
         "name" : "Git",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 320 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/git.png?raw=true",
         "title" : "Our basic to advance Git course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "Git is a free and open source distributed code management and Version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
     },
     {
@@ -63,7 +70,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Adobe Photoshop",
-        "img" : "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "price" : 880 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/photoshop.png?raw=true",
         "title" : "Our basic to advance Adobe Photoshop course",
         "description" : "This is photoshop courses"
 
@@ -73,7 +81,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Adobe Illustrator",
-        "img" : "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "price" : 1020 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/illustrator.png?raw=true",
         "title" : "Our basic to advance Adobe Illustrator course",
         "description" : "This is Adobe Illustrator courses"
 
@@ -83,7 +92,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Logo Design",
-        "img" : "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "price" : 2500 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/logo-desgin.jpg?raw=true",
         "title" : "Our basic to advance Logo Design course",
         "description" : "This is photoshop courses"
 
@@ -93,7 +103,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Drawing",
-        "img" : "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+        "price" : 975 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/drawing.png?raw=true",
         "title" : "Our basic to advance Drawing course",
         "description" : "This is photoshop courses"
 
@@ -103,7 +114,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Canva",
-        "img" : "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "price" : 875 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/canva.png?raw=true",
         "title" : "Our basic to advance Canva course",
         "description" : "This is photoshop courses"
 
@@ -113,7 +125,8 @@
         "categoryName" : "Graphics Desgining",
         "category_id": "02",
         "name" : "Design Theory",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 945 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/Design-Theory.png?raw=true",
         "title" : "Our basic to advance Design Theory course",
         "description" : "This is photoshop courses"
 
@@ -123,7 +136,8 @@
         "categoryName" : "Web Development",
         "category_id": "03",
         "name" : "MERN Stack Wev Development",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 12500 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/mern.png?raw=true",
         "title" : "Our basic to advance MERN Stack Wev Development course",
         "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
@@ -133,7 +147,8 @@
         "categoryName" : "Web Development",
         "category_id": "03",
         "name" : "Front-end Wev Development",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 6500 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/front-end.png?raw=true",
         "title" : "Our basic to advance Front-end Wev Development course",
         "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
@@ -143,7 +158,8 @@
         "categoryName" : "Digital Marketing",
         "category_id": "04",
         "name" : "Social Media Marketing",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 3000 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/social.png?raw=true",
         "title" : "Our basic to advance Social Media Marketing course",
         "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
@@ -153,7 +169,8 @@
         "categoryName" : "Digital Marketing",
         "category_id": "04",
         "name" : "Data Entry",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 600 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/data-entry.jpg?raw=true",
         "title" : "Our basic to advance Data Entry course",
         "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
@@ -163,7 +180,8 @@
         "categoryName" : "Digital Marketing",
         "category_id": "04",
         "name" : "Google Adsense",
-        "img" : "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "price" : 1200 ,
+        "img" : "https://github.com/maruf21hossain/image/blob/main/google-adsense.png?raw=true",
         "title" : "Our basic to advance Google Adsense course",
         "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
