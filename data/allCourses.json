@@ -73,7 +73,7 @@
         "price" : 880 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/photoshop.png?raw=true",
         "title" : "Our basic to advance Adobe Photoshop course",
-        "description" : "This is photoshop courses"
+        "description" : "This is photoshop courses. Adobe Photoshop is software that is extensively used for raster image editing, graphic design and digital art. It makes use of layering to allow for depth and flexibility in the design and editing process, as well as provide powerful editing tools, that when combined, are capable of just about anything."
 
     },
     {
@@ -84,7 +84,7 @@
         "price" : 1020 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/illustrator.png?raw=true",
         "title" : "Our basic to advance Adobe Illustrator course",
-        "description" : "This is Adobe Illustrator courses"
+        "description" : "This is Adobe Illustrator courses. Adobe Illustrator is a software application for creating drawings, illustrations, and artwork using a Windows or MacOS computer. Illustrator was initially released in 1987 and it continues to be updated at regular intervals, and is now included as part of the Adobe Creative Cloud."
 
     },
     {
@@ -95,7 +95,7 @@
         "price" : 2500 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/logo-desgin.jpg?raw=true",
         "title" : "Our basic to advance Logo Design course",
-        "description" : "This is photoshop courses"
+        "description" : "This is photoshop courses. A logo is a symbol made up of text and images that identifies a business. A good logo shows what a company does and what the brand values. Logo design is all about creating the perfect visual brand mark for a company."
 
     },
     {
@@ -106,7 +106,7 @@
         "price" : 975 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/drawing.png?raw=true",
         "title" : "Our basic to advance Drawing course",
-        "description" : "This is photoshop courses"
+        "description" : "drawing, the art or technique of producing images on a surface, usually paper, by means of marks, usually of ink, graphite, chalk, charcoal, or crayon."
 
     },
     {
@@ -117,7 +117,7 @@
         "price" : 875 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/canva.png?raw=true",
         "title" : "Our basic to advance Canva course",
-        "description" : "This is photoshop courses"
+        "description" : "Canva is a free graphic design platform that's great for making invitations, business cards, Instagram posts, and more. A drag and drop interface makes customizing thousands of templates simple and easy."
 
     },
     {
@@ -128,7 +128,7 @@
         "price" : 945 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/Design-Theory.png?raw=true",
         "title" : "Our basic to advance Design Theory course",
-        "description" : "This is photoshop courses"
+        "description" : "Design theory is a system that helps graphic designers better understand how they can communicate a message to audiences through visuals. It involves identifying the different elements in an image and explaining why they're important"
 
     },
     {
@@ -139,7 +139,7 @@
         "price" : 12500 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/mern.png?raw=true",
         "title" : "Our basic to advance MERN Stack Wev Development course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node. js. It is designed to make the development process smoother and easier. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
     },
     {
@@ -150,7 +150,7 @@
         "price" : 6500 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/front-end.png?raw=true",
         "title" : "Our basic to advance Front-end Wev Development course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "A front-end developer builds the front-end portion of websites and web applications—that is, the part that users actually see and interact with. A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app. This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
 
     },
     {
@@ -161,7 +161,7 @@
         "price" : 3000 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/social.png?raw=true",
         "title" : "Our basic to advance Social Media Marketing course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "What Is Social Media Marketing (SMM)? Social media marketing (SMM) (also known as digital marketing and e-marketing) is the use of social media—the platforms on which users build social networks and share information—to build a company's brand, increase sales, and drive website traffic."
 
     },
     {
@@ -172,7 +172,7 @@
         "price" : 600 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/data-entry.jpg?raw=true",
         "title" : "Our basic to advance Data Entry course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "A Data Entry Clerk is responsible for transferring data from paper formats into computer files or database systems. Their transfer of data happens manually or using scanners. They type in customers' information and create spreadsheets, verifying them against source documents at different stages during the process."
 
     },
     {
@@ -183,7 +183,7 @@
         "price" : 1200 ,
         "img" : "https://github.com/maruf21hossain/image/blob/main/google-adsense.png?raw=true",
         "title" : "Our basic to advance Google Adsense course",
-        "description" : "This is our most valuable course. As a beginner programmer you should follow this course. Because this course have basic Git and advance Git included."
+        "description" : "AdSense is a free-of-charge, simple way to earn money by displaying ads next to your online content. With AdSense, you can show relevant and engaging ads to your site visitors and even customize the look and feel of ads to match your site."
 
     }
 ]
