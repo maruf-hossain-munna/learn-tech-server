@@ -29,11 +29,16 @@ app.get('/category/:id', (req, res) => {
 
 })
 
+app.get('/courses', (req, res) =>{
+    res.send(allCourses);
+})
+
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const courses = allCourses.find(course => course.id == id);
     res.send(courses)
 })
+
 
 app.listen(port, () => {
     console.log('This server running on port', port);
